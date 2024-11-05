@@ -11,7 +11,7 @@
 ## 1. Preface
 
 - This repository provides code for "_**Multiscale attention cross-sharing networks for Colorectal polyp segmentation (MACNet)**_". 
-([paper provide later]())([code](https://drive.google.com/drive/folders/1CfMLCVIsGxsnCMcM7iN5q8W-fq8PBwh1?usp=sharing))
+([paper provide later]()
 
 - If you have any questions about our paper, feel free to contact me.
 
